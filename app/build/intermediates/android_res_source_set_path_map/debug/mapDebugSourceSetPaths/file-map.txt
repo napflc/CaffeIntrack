@@ -1,0 +1,8 @@
+com.nafil.caffeintrack.app-pngs-0 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/build/generated/res/pngs/debug
+com.nafil.caffeintrack.app-updated_navigation_xml-1 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/build/generated/updated_navigation_xml/debug
+com.nafil.caffeintrack.app-packageDebugResources-2 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.nafil.caffeintrack.app-packageDebugResources-3 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.nafil.caffeintrack.app-debug-4 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.nafil.caffeintrack.app-debug-5 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/src/debug/res
+com.nafil.caffeintrack.app-main-6 /home/lucy/AndroidStudioProjects/CaffeIntrack/app/src/main/res
+gradleHome-0 /home/lucy/.gradle
